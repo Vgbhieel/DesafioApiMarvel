@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Desafio API Marvel</string>
+    <string name="login_title">Welcome do the Marvel HQ\'s</string>
+    <string name="inputEmail">Email</string>
+    <string name="inputPassword">Password</string>
+    <string name="checkboxRemember">Remember</string>
+    <string name="buttonLogin">LOG IN</string>
+    <string name="buttonCreateAccount">Create account</string>
+    <string name="inputName">Name</string>
+    <string name="buttonSave">SAVE</string>
+    <string name="titleRegister">Register</string>
+    <string name="published">Published:&#160;</string>
+    <string name="price">Price:&#160;</string>
+    <string name="pages">Pages:&#160;</string>
+    <string name="no_description">No description</string>
+    <string name="no_info">No available info</string>
+</resources>
